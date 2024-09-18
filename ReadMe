@@ -1,0 +1,5 @@
+cd m4
+git submodule init
+git submodule update
+
+PH submodule also has to be setup in TOGL
