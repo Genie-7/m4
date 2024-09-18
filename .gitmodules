@@ -1,0 +1,3 @@
+[submodule "TOGL"]
+	path = TOGL
+	url = https://github.com/BorgwardtLab/TOGL.git
